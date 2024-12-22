@@ -5,8 +5,9 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## Who Am I?
-I'm a Master's student in Data Science with a passion for turning raw data into valuable insights.<br> 
-I love collaborating with diverse teams to brainstorm new ideas and tackle real-world problems.
+I'm a Master's student in Data Science with a passion for <br>turning raw data into valuable insights.
+<br><br>
+I love collaborating with diverse teams to brainstorm <br>  new ideas and tackle real-world problems.
 
 ##  My Skill Set 🛠️:
 
