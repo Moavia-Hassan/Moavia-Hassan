@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moavia Hassan</h1>
 <h3 align="center">Loves to Learn New SKills</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ##  My Skill Set 🛠️:
 
 <table><tr><td valign="top" width="25%">
