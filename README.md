@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" border-radius=50  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-## Who Am I?
+<h1>Who Am I?</h1> 
 I'm a Master's student in Data Science with a passion for <br>turning raw data into valuable insights.
 <br><br>
 I love collaborating with diverse teams to brainstorm <br>  new ideas and tackle real-world problems.
@@ -71,6 +71,17 @@ I love collaborating with diverse teams to brainstorm <br>  new ideas and tackle
 
 ##  Github Stats📈:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moavia-Hassan&theme=dark&hide_border=true)
+<p align="center">
+    <a href="https://github.com/Moavia-Hassan">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Moavia-Hassan&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moavia-Hassan&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
 
-**Profile Views**: ![Profile Views](https://komarev.com/ghpvc/?username=Moavia-Hassan&color=brightgreen)
+
+
+ <p align="center">
+   <a href="https://github.com/Moavia-Hassan"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Moavia-Hassan&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
+   </a>  
+ </p>
