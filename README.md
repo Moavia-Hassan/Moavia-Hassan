@@ -79,9 +79,6 @@ I love collaborating with diverse teams to brainstorm <br>  new ideas and tackle
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Moavia-Hassan&theme=dark&short_numbers=true)](https://git.io/streak-stats)
  <p align="center">
-   <a href="https://github.com/Moavia-Hassan"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Moavia-Hassan&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
-   </a>  
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Moavia-Hassan&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>  
  </p>
